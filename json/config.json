@@ -1,0 +1,12 @@
+{
+  "PING_INTERVAL": 1000,
+  "PROXY": false,
+  "options": {
+    "username": "",
+    "question": "",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+      "Content-Type": "application/json"
+    }
+  }
+}
